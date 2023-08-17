@@ -21,7 +21,7 @@ For more details visit:
 
 
 # Screenshots:
-<img src="assets/images/ss.png">   
+<img src="Images/ss.png">   
 <img src="assets/images/ss2.png">   
 <img src="assets/images/ss1.png">   
 <img src="assets/images/ss3.png">   
