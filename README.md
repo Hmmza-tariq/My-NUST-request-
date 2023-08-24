@@ -19,8 +19,8 @@ By using this app, you agree to the following:
 - We do not collect or store any personal information, including your name, email, or location.
 
 For more details, please visit:
-- [Privacy Policy](https://sites.google.com/view/mynust-privacy-policy/home)
-- [Terms and Conditions](https://sites.google.com/view/mynust-terms-and-conditions/home)
+- [Privacy Policy](https://sites.google.com/view/my-nust-privacy-policy/home)
+- [Terms and Conditions](https://sites.google.com/view/my-nust-terms-and-conditions/home)
 
 
 ## Request Source Code Method:
