@@ -4,7 +4,7 @@
 
 'My NUST' is your ultimate companion for a seamless university experience. Designed exclusively for NUST students, this comprehensive app brings a range of features right to your fingertips, enhancing your academic journey and campus life like never before.
 
-Key Features:
+## Key Features:
 
 1. Qalam Access: Stay informed about your academic progress with the Qalam feature. Easily view your exam results and attendance records in real-time, allowing you to gauge your performance and make informed decisions.
 
