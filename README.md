@@ -41,7 +41,7 @@ For more details, please visit:
 
 ## Request Source Code Method:
 
-To request the source code of this project, please follow the guidelines mentioned in the repository's [Source Code Request Template](#source-code-request-template). We appreciate your interest in exploring and collaborating with our codebase!
+To request the source code of this project, please follow the guidelines mentioned in the repository's [Source Code Request Template](https://github.com/Hmmza-tariq/My-NUST-request-/issues/new/choose). We appreciate your interest in exploring and collaborating with our codebase!
 
 
 
