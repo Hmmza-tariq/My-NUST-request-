@@ -6,7 +6,7 @@
 
 'My NUST' is your ultimate companion for a seamless university experience. Designed exclusively for NUST students, this comprehensive app brings a range of features right to your fingertips, enhancing your academic journey and campus life like never before.
 
-[Blog post](https://hexagone-apps.blogspot.com/2023/08/my-nust-nust-unofficial-student-portal.html).
+[Blog post](https://hexagone-apps.blogspot.com/2023/08/my-nust-nust-unofficial-student-portal.html)
 
 [Playstore](https://play.google.com/store/apps/dev?id=8768216911832834755)
 
