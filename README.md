@@ -2,13 +2,13 @@
 
 ![](screenshots/ss.png)
 
+## Download Now: [My NUST on Playstore](https://play.google.com/store/apps/dev?id=8768216911832834755)
+
 ## About:
 
 'My NUST' is your ultimate companion for a seamless university experience. Designed exclusively for NUST students, this comprehensive app brings a range of features right to your fingertips, enhancing your academic journey and campus life like never before.
 
 [Blog post](https://hexagone-apps.blogspot.com/2023/08/my-nust-nust-unofficial-student-portal.html)
-
-## Download Now: [Playstore](https://play.google.com/store/apps/dev?id=8768216911832834755)
 
 Key Features:
 
