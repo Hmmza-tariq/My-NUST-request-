@@ -8,7 +8,7 @@
 
 [Blog post](https://hexagone-apps.blogspot.com/2023/08/my-nust-nust-unofficial-student-portal.html)
 
-[Playstore](https://play.google.com/store/apps/dev?id=8768216911832834755)
+## Download Now: [Playstore](https://play.google.com/store/apps/dev?id=8768216911832834755)
 
 Key Features:
 
