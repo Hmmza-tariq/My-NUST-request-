@@ -2,7 +2,7 @@
 
 ![](screenshots/ss.png)
 
-## Download Now: [My NUST on Playstore](https://play.google.com/store/apps/dev?id=8768216911832834755)
+## Download Now: [My NUST on Playstore](https://play.google.com/store/apps/details?id=com.hexagone.mynust&pcampaignid=web_share)
 
 ## About:
 
