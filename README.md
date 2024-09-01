@@ -1,6 +1,6 @@
 # My NUST - NUST Unofficial Student Portal
 
-![](screenshots/ss2.png)
+![](screenshots/banner.png)
 
 ## Download Now: [My NUST on Playstore](https://play.google.com/store/apps/details?id=com.hexagone.mynust&pcampaignid=web_share)
 
@@ -23,13 +23,6 @@ Key Features:
 
 5. GPA Calculator: Calculate your GPA accurately using the built-in GPA calculator. Stay on top of your grades and monitor your academic achievements effortlessly.
 
-6. Absolutes and Aggregate: Plan your academic journey effectively by calculating absolutes and aggregates with ease especially for students preparing for NUST entry test . Make informed decisions about your course selections and future goals.
-
-7. To-Do Tasks and Calendar: Keep track of your tasks and events with the app's intuitive To-Do and Calendar features. Stay organized and manage your time efficiently, ensuring a balanced academic and personal life.
-
-8. Note Capture: Capture and save notes directly within the app. Whether it's a lecture summary, brainstorming session, or a creative idea, you can store and organize your notes hassle-free.
-
-9. Helpful Links: Access a curated collection of helpful materials, references, and online resources that supplement your studies. Enhance your learning experience with easy access to valuable content.
 
 'My NUST' is more than just an app – it's your personalized university companion, dedicated to streamlining your academic journey and enhancing your campus life. Download 'My NUST' now and unlock a world of convenience, organization, and empowerment."
 
@@ -57,6 +50,6 @@ To request the source code of this project, please follow the guidelines mention
 
 |   |   |
 |--------------|--------------|
-| ![Screenshot 1](screenshots/(1).png) | ![Screenshot 2](screenshots/(7).png) |
-| ![Screenshot 3](screenshots/(2).png) | ![Screenshot 4](screenshots/(9).png) |
-| ![Screenshot 5](screenshots/(10).png) | ![Screenshot 6](screenshots/(5).png) |
+| ![Screenshot 1](screenshots/1.png) | ![Screenshot 2](screenshots/4.png) |
+| ![Screenshot 3](screenshots/2.png) | ![Screenshot 4](screenshots/5.png) |
+| ![Screenshot 5](screenshots/3.png) | ![Screenshot 6](screenshots/6.png) |
